@@ -16,7 +16,7 @@ Revise the Coin class, found in the Chapter 5 examples, such that its state is r
 Design and implement a class called *Dog* that contains instance data that represent the dog's name and age. Define the *Dog* constructor to accept and initialize instance data. Include getter and setter methods for the name and age. Include a method to compute and return the age of the dog in "person years" (seven times the dog's age). Include a *toString* method that returns a one-line description of the dog. Create a driver class called *Kennel*, whose *main* method instantiates and updates several *Dog* objects.
 
 ### Implementation Guide
-1. Expanded the folder named A2-Kennel and create two new files named Dog.java and Kennel.java respectively
+1. Expand the folder named A2-Kennel and create two new files named Dog.java and Kennel.java respectively
 2. Design a program to satisfy the requirements in the Problem Description and enter the program code in Dog.java and the driver code in Kennel.java
 3. Test the program using the run link above the main method. Carefully think about each of the different cases you'll need to test for to verify that the application is functioning properly.
 4. Commit the changes to your local repository with a message stating that Activity 2 is completed.
@@ -27,7 +27,7 @@ Design and implement a class called *Dog* that contains instance data that repre
 Design and implement a class called *Book* that contains instance data for the title, author, publisher, and copyright date. Define the *Book* constructor to accept and initialize these data. Include setter and getter methods for all instance data. Include a *toString* method that returns a nicely formatted, multiline description of the book. Create a driver class called *Bookshelf*, whose *main* method instantiates and updates several *Book* objects.
 
 ### Implementation Guide
-1. Expanded the folder named A3-Bookshelf and create two new files named Book.java and Bookshelf.java respectively
+1. Expand the folder named A3-Bookshelf and create two new files named Book.java and Bookshelf.java respectively
 2. Design a program to satisfy the requirements in the Problem Description and enter the program code in Book.java and the driver code in Bookshelf.java
 3. Test the program using the run link above the main method. Carefully think about each of the different cases you'll need to test for to verify that the application is functioning properly.
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
