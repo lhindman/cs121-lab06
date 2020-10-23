@@ -1,6 +1,14 @@
 # Lab05 Guide
 ## Getting Started
-Please watch the Lab Activity 5 Walkthough Video.  
+Please watch the [Lab05 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyB9fHkeDHCyzfbV6MB4IeNU).
+
+### Code Style Requirements
+Please review the [CS121 Style Guide](https://docs.google.com/document/d/1LWbGQBKkApnNAzzgwOSvRM03DmhYWx5yEfecT2WXfjI/edit?usp=sharing) and apply it in all lab activities and projects this semester. Coding Style will assessed as part of your lab and project grades.
+
+### Code Quality Requirements
+- Code must compile without warnings using openjdk11
+- Code must run without errors or warnings on safe-path and edge test cases
+- More to come as we learn about input validation and exception handling 
 ## Activity 1 - CountFlips (pp5.1)
 ### Problem Description
 Revise the Coin class, found in the Module 5 examples, such that its state is represented internally using a boolean variable.  Test the new versions of the class as part of the CountFlips and FlipRace programs.
