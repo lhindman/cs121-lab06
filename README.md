@@ -3,9 +3,9 @@
 Please watch the Lab Activity 5 Walkthough Video.  
 ## Activity 1 - CountFlips (pp5.1)
 ### Problem Description
-Revise the Coin class, found in the Chapter 5 examples, such that its state is represented internally using a boolean variable.  Test the new versions of the class as part of the CountFlips and FlipRace programs.
+Revise the Coin class, found in the Module 5 examples, such that its state is represented internally using a boolean variable.  Test the new versions of the class as part of the CountFlips and FlipRace programs.
 ### Implementation Guide
-1. Open the Chapter 5 code examples and copy Coin.java, FlipRace.java and CountFlips.java into the folder named A1-CountFlips
+1. Open the Module 5 code examples and copy Coin.java, FlipRace.java and CountFlips.java from the CountFlips folder into the folder named A1-CountFlips
 2. Modify Coin.java as described in the Problem Description
 3. Test the program using both the CountFlips driver class
 4. Commit the changes to your local repository with a message stating that Activity 1 is completed.
@@ -36,16 +36,16 @@ Design and implement a class called *Book* that contains instance data for the t
 
 ## Activity 4 - SnakeEyes (pp5.10)
 ### Problem Description
-Using the *Die* class from the Chapter 5 examples, design and implement a class called *PairOfDice*, composed of two *Die* objects. Include methods to set and get the individual die values, a method to roll the dice, and a method that returns the current sum of the two die values. Rewrite the *SnakeEyes* program using a *PairOfDice* object.
+Using the *Die* class from the SnakeEyes folder in the Module 5 examples, design and implement a class called *PairOfDice*, composed of two *Die* objects. Include methods to set and get the individual die values, a method to roll the dice, and a method that returns the current sum of the two die values. Rewrite the *SnakeEyes* program using a *PairOfDice* object.
 
 ### Implementation Guide
-1. Open the Chapter 5 code examples and copy Die.java and SnakeEyes.java into the A4-SnakeEyes folder.
+1. Open the Module 5 code examples and copy Die.java and SnakeEyes.java from the SnakeEyes folder into the A4-SnakeEyes folder.
 2. Design a program to satisfy the requirements in the Problem Description and implement it in a file named PairOfDice.java
 3. Test the program using the modified version of the SnakeEyes program. Carefully think about each of the different cases you'll need to test for to verify that the application is functioning properly.
 4. Commit the changes to your local repository with a message stating that Activity 4 is completed.
 5. Push the changes from your local repository to the github classroom repository
 
-## Activity 5 - GameOfPig (pp5.11) (This is a good candidate for a walkthrough video)
+## Activity 5 - GameOfPig (pp5.11)
 ### Problem Description
 Using the *PairOfDice* class from Activity 4, design and implement a class to play a game called Pig. In this game, the user competes against the computer. On each turn, the current player rolls a pair of dice and accumulates points. The goal is to reach 100 points before your opponent does. If, on any turn, the player rolls a 1 (on either die), all points accumulated for that round are forfeited, and control of the dice moves to the other player.  
 
