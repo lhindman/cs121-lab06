@@ -1,6 +1,6 @@
 # Lab05 Guide
 ## Getting Started
-Please watch the [Lab05 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyB9fHkeDHCyzfbV6MB4IeNU).
+Please watch the [Lab05 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyB9fHkeDHCyzfbV6MB4IeNU).  
 Please clone the [Module05 Code Examples](https://github.com/lhindman/cs121-mod05-examples.git).
 
 ### Code Style Requirements
